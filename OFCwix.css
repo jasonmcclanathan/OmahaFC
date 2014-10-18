@@ -1,0 +1,35 @@
+.TeamMenuTitle {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #5C5959;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+
+.TeamMenu {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #8C896F;
+	text-decoration: none;
+	border-left-width: medium;
+	border-left-style: solid;
+	border-left-color: #FFFFFF;
+	font-size: 14px;
+}
+.TeamMenu a:link {
+	text-decoration: none;
+	border-left-width: medium;
+	border-left-style: solid;
+	border-left-color: #FFFFFF;
+}
+.TeamMenu a:hover {
+	color: #333;
+	text-decoration: none;
+	border-left-width: medium;
+	border-left-style: solid;
+	border-left-color: #333;
+}
+.TeamMenuBox {
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
